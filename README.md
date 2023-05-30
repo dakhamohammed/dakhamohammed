@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dakhamat Mohammed
+- 👋 Hi, I’m @Dakhamat Mohammed student at ALX Africa Software Engineering.
 - 👀 I’m interested in learning programing languages such us C, C++, Kotlin, TypeScript.
 - 🌱 I’m currently learning C programing language.
 - 💞️ I’m looking to collaborate on ALX Africa projects.
